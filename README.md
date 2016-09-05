@@ -7,7 +7,9 @@ Usage & commands in short:
 	Usage
 		./server <port_server> <users_config_file> <static_shares_config_file>
 		./client <IP_server> <port_server>
-		Note: I've included samples for users_config_file and static_shares_config_file. Beware that in the if you do not have actual files named like in the static shares config file the server will print an error message and ignore the lines where it didnt find the files. The server will then keep running normally.
+		Note: I've included samples for users_config_file and static_shares_config_file. Beware that in the if you do 
+		not have actual files named like in the static shares config file the server will print an error message and 
+		ignore the lines where it didnt find the files. The server will then keep running normally.
 	Commands
 	 client
 		login
