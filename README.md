@@ -7,6 +7,7 @@ Usage & commands in short:
 	Usage
 		./server <port_server> <users_config_file> <static_shares_config_file>
 		./client <IP_server> <port_server>
+		Note: I've included samples for users_config_file and static_shares_config_file.		
 	Commands
 	 client
 		login
