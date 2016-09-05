@@ -1,6 +1,8 @@
 # backup-share-cloud-2016
 Tema 2 PC
 	Sarariu Liviu - Dan 323CC
+	
+Usage in enunt.
 
 Detaliere protocol folosit:
 
