@@ -2,7 +2,26 @@
 Tema 2 PC
 	Sarariu Liviu - Dan 323CC
 	
-Usage in enunt.
+Usage & commands in short:
+	Usage
+		./server <port_server> <users_config_file> <static_shares_config_file>
+		./client <IP_server> <port_server>
+	Commands
+	 client
+		login
+		logout
+		upload
+		download
+		share
+		unshare
+		getuserlist
+		getfilelist
+		delete
+		quit
+	 server
+	 	quit
+	 	
+Pentru mai multe detalii consultati enuntul.
 
 Detaliere protocol folosit:
 
