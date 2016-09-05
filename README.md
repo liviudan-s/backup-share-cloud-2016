@@ -10,6 +10,8 @@ Usage & commands in short:
 		Note: I've included samples for users_config_file and static_shares_config_file. Beware that if you do 
 		not have actual files named like those in the static shares config file the server will print an error message and 
 		ignore the lines where it didnt find the files. The server will then keep running normally.
+		Note2: If running locally use 127.0.0.1 as address.
+		Note3: I've only tested it locally.
 	Commands
 	 client
 		login
