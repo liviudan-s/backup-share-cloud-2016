@@ -33,4 +33,4 @@ Detalii de implementare:
 	- pe langa bufferul dat ca parametru, am facut un buffer persistent la recv(atat la server(cate unul pentru fiecare client) cat si la clienti) in care sa se tina datele in caz
 	ca se primesc mai multe frameuri sau nu s.a primit un frame complet(lucru posibil pe conexiuni mai slabe, caz in care chiar daca se da un send cu un frame, in partea opusa
 	nu e obligatoriu sa ajunga frameul intr-un singur recv(fapt pentru care ma uit la lungimea returnata de recv sa stiu daca am un frame complet) )
-- am retinut detaliile aferente fiecarui client/user/fisier in mai multe mapuri ce contin structuri definite de mine ce grupeaza aceste date(client_info, user_info, file_info)
+	- am retinut detaliile aferente fiecarui client/user/fisier in mai multe mapuri ce contin structuri definite de mine ce grupeaza aceste date(client_info, user_info, file_info)
