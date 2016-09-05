@@ -3,6 +3,7 @@ Tema 2 PC
 	Sarariu Liviu - Dan 323CC
 	
 Usage & commands in short:
+
 	Usage
 		./server <port_server> <users_config_file> <static_shares_config_file>
 		./client <IP_server> <port_server>
